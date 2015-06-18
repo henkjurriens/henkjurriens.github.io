@@ -35,6 +35,21 @@ body {
   text-align: center;
 }
 
+.logo-big {
+  background-color: red;
+  color : white;
+  font-family: 'Leckerli One', cursive;
+  font-size : 200px;
+  float : left;
+  padding-top : 20px;
+  padding-bottom : 20px;
+  padding-left : 50px;
+  padding-right : 50px;
+  margin-top : 20px;
+  margin-right : 50px;
+  text-align: center;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
