@@ -1,0 +1,35 @@
+{
+    "firstname" : "Henk",
+    "lastname" : "Jurriens",
+
+    "title" : "Technology Advocate",
+    "picture" : "http://ihenk.com/profile.jpg",
+    "summary": [
+        {
+            "text": "Loremipsumdolorsitamet, consecteturadipiscingelit, seddoeiusmodtemporincididuntutlaboreetdoloremagnaaliqua.Utenimadminimveniam, quisnostrudexercitationullamcolaborisnisiutaliquipexeacommodoconsequat.Duisauteiruredolorinreprehenderitinvoluptatevelitessecillumdoloreeufugiatnullapariatur.Excepteursintoccaecatcupidatatnonproident, suntinculpaquiofficiadeseruntmollitanimidestlaborum."
+        },
+        {
+            "text": "Loremipsumdolorsitamet, consecteturadipiscingelit, seddoeiusmodtemporincididuntutlaboreetdoloremagnaaliqua.Utenimadminimveniam, quisnostrudexercitationullamcolaborisnisiutaliquipexeacommodoconsequat.Duisauteiruredolorinreprehenderitinvoluptatevelitessecillumdoloreeufugiatnullapariatur.Excepteursintoccaecatcupidatatnonproident, suntinculpaquiofficiadeseruntmollitanimidestlaborum."
+        }
+    ],
+    "presentations": [
+        {
+            "title": "NextBuild",
+            "image" : "nextbuild.png",
+            "url": "http: //"
+        },
+
+        {
+            "title": "NIOC2015",
+            "image" : "nioc.png",
+            "url": "http: //"
+        }
+    ],
+    "apps": [
+        {
+            "title": "Bussommen",
+            "image" : "nextbuild.png",
+            "url": "http: //"
+        }
+    ]
+}
